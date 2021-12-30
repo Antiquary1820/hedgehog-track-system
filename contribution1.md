@@ -1,6 +1,8 @@
-### Just a starter page Andy - you will I hope - edit a clumsy first attempt
 
-# A starter page only Andy - you will I hope - edit and add to a clumsy first attempt
+
+# A starter page only Andy - you will I hope edit and add to this first attempt
+
+Development Tooling
 
 * Hardware
 
@@ -17,7 +19,7 @@ LoRaWan Module
 [Platformio (embedded development)](https://platformio.org)
 
 
-# Welcome to the base-conversions wiki!
+# Welcome to the base-conversions 
 
 ## Thanks to CircuitFreakCoder
 
